@@ -1,4 +1,5 @@
 Drive-Files-Cleanup-And-EmailNotifier
+
 A Python automation script to delete .xlsx and .csv files from a shared drive folder and send an email notification with details of deleted files.
 
 📌 Features
